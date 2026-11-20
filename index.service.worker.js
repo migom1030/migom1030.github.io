@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1795097185|4327925743';
+const CACHE_VERSION = '1795148322|12089411933';
 /** @type {string} */
 const CACHE_PREFIX = 'Dice 3D Grid Puz-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
